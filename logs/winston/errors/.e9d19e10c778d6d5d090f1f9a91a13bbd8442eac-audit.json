@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\university-core-service-prisma\\logs\\winston\\errors\\.e9d19e10c778d6d5d090f1f9a91a13bbd8442eac-audit.json",
+    "files": [
+        {
+            "date": 1732879906168,
+            "name": "E:\\university-core-service-prisma\\logs\\winston\\errors\\phu-2024-29-11-17-error.log",
+            "hash": "9e6eec071285218987a60595ecbe2cee1f68b4d6d3426167399604e6cbd8e1bf"
+        }
+    ],
+    "hashType": "sha256"
+}
